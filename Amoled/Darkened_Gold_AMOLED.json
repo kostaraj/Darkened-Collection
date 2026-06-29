@@ -1,10 +1,10 @@
 {
-    "name": "YouGold (AMOLED) - Gold Text Fix",
+    "name": "Dynamic Gold (AMOLED)",
     "description": "Gold based theme with forced text color fix.",
     "version": "1.0",
     "authors": [
       {
-        "name": "dor4a #avtvshutup"
+        "name": "Kosta"
       }
     ],
     "semanticColors": {
@@ -49,7 +49,7 @@
         "TEXT_LINK": [ "#FFA90A" ],
         "TEXT_NORMAL": [ "#ffffff" ],
         "TEXT_MUTED": [ "#818491" ],
-        "TEXT_PRIMARY": [ "#ffb73b" ],
+        "TEXT_PRIMARY": [ "#ffffff" ],
         "THREAD_CHANNEL_SPINE": [ "#FFA90A" ],
         "BG_BASE_PRIMARY": [ "#000000" ],
         "BG_BASE_SECONDARY": [ "#000000" ],
