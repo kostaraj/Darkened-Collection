@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [ "#1B1E27" ],
-        "BACKGROUND_ACCENT": [ "#FFA90A" ],
+        "BACKGROUND_ACCENT": [ "#FFFFFF" ],
         "BACKGROUND_MENTIONED": [ "#ffb61515" ],
         "BACKGROUND_MENTIONED_HOVER": [ "#ffb61580" ],
         "BACKGROUND_MESSAGE_HOVER": [ "#0E0E0F" ],
