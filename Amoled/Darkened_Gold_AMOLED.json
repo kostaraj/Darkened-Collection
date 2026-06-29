@@ -3,7 +3,7 @@
     "description": "A dark theme with gold accents.",
     "authors": [
         {
-            "name": "Purple_Ξye™"
+            "name": "Kosta (from Purple_Ξye™)"
         }
     ],
     "semanticColors": {
@@ -101,7 +101,7 @@
             "#ffb73b"
         ],
         "TEXT_SECONDARY": [
-            "#b5bac1"
+            "#ffb73b"
         ],
         "THREAD_CHANNEL_SPINE": [
             "#FFA90A"
